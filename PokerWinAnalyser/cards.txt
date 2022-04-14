@@ -1,0 +1,14 @@
+2
+|Ah||Ad|
+|Kc||Kd|
+|Jc||Qc||Tc|
+
+Structure:
+    [number of contesting hands, n]
+    [1st contesting hand]
+    .
+    .
+    .
+    [nth contesting hand]
+    [revealed community cards]
+    [folded/known cards]

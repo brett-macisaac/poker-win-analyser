@@ -1,0 +1,24 @@
+Contesting Hands:
+    > |Ah||Ad|
+    > |Kc||Kd|
+Community Cards:
+    > |Jc||Qc||Tc||As|
+Known Cards:
+    > 
+
+Results:
+    > |Ah||Ad|, |Kc||Kd|: 4.54545%
+    > |Kc||Kd|: 75%
+    > |Ah||Ad|: 20.4545%
+
+Time Taken:
+    > 3ms
+
+No. of combinations:
+    > 44
+
+Combs per ms:
+    > 14.6667
+
+Time taken for hand-assignment (microsecs):
+    > 2593
